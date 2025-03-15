@@ -1,0 +1,14 @@
+scikit-learn
+numpy
+pandas
+streamlit
+torch>=2.1.0
+torchvision
+datasets
+evaluate
+transformers
+accelerate
+pandas
+scikit-learn
+tqdm
+bert-score
